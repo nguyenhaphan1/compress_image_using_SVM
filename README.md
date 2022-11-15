@@ -1,4 +1,4 @@
-# compress_image_using_SVM
+compress_image_using_SVM
 How to use:
 First choose RGB image you want to compress.
 Download it with (.png or .jpg).
